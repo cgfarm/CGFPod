@@ -1,0 +1,6 @@
+{
+  "name": "CGF Kingdom Growth Podcasts",
+  "description": "Stream episodes, browse interactive transcripts, connect to podcast networks, record live commentary with virtual backgrounds, and track real-time broadcasts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
